@@ -1,6 +1,6 @@
-def saludar(a,b):
-    
-    return print(f"Hola {a}, hola {b}  ")
+def calcular_area_rectangulo(base, altura):
+    area = base * altura
+    return area
 
-
-saludar("ana")
+resultado = calcular_area_rectangulo(5, 3)
+print(resultado)
