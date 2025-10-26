@@ -1,0 +1,5 @@
+Lapicera,$1200,30
+Goma, $1000,40
+Plasticola,$2000,15
+Resaltador,1200,15
+mochilas,2200,15

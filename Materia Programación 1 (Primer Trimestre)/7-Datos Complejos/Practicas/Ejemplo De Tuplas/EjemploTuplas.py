@@ -32,7 +32,7 @@
 # operaciones basicas
 
 t = (1,2,3,4,5,6,2)
-
-print(f"Cantidad de elementos de la tupla {len(t)}" )
-print(f"Cantidad de veces que aparece 2: {t.count(2)}")
-print(f"El indice del elemento 3: {t.index(3)}")
+print(t[1])
+# print(f"Cantidad de elementos de la tupla {len(t)}" )
+# print(f"Cantidad de veces que aparece 2: {t.count(2)}")
+# print(f"El indice del elemento 3: {t.index(3)}")
